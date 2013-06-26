@@ -1,4 +1,4 @@
 bb10
 ====
 
-bb10 repo
+Repo para ejemplos de BB10
